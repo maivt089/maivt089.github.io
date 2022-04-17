@@ -1,0 +1,29 @@
+﻿/*text color*/
+.red-text {
+    color: #ff0000;
+}
+.blue-text {
+    color: #0000ff;
+}
+
+/*margin top*/
+.mt-0 {
+    margin-top: 0;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+
+/*margin left*/
+.ml-0 {
+    margin-left: 0;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.ml-20 {
+    margin-left: 20px;
+}
